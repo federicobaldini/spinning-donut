@@ -15,7 +15,7 @@ or just:
 ```
 if you are inside the spinning-donut/src folder.
 
-Reference/explanation: https://www.a1k0n.net/2011/07/20/donut-math.html or read the .pdf file insize the documentation folder of this project (it's the same page).
+Reference/explanation: https://www.a1k0n.net/2011/07/20/donut-math.html or read the .pdf file inside the documentation folder of this project (it's the same page).
 
 Credit: https://github.com/a1k0n.
 
