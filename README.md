@@ -1,11 +1,11 @@
 # Rust Spinning Donut
-I rewrote in Rust the popular spinning donut code originally created in C. Just run the application with this command on your terminal:
+I rewrote in Rust the popular spinning donut code originally created in C. Just run the application with this command on your terminal console:
 ```
 cargo run
 ```
-and a donut will start spinning on your console.
+and a donut will start spinning!
 
-If you don't have Cargo installed, run this command on your terminal if you start form the project root:
+If you don't have Cargo installed, run this command on your terminal if you start fro  the project root:
 ```
 ./src/main
 ```
