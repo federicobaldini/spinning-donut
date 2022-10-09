@@ -9,4 +9,4 @@ reference/explanation: https://www.a1k0n.net/2011/07/20/donut-math.html or read 
 
 credit: https://github.com/a1k0n.
 
-![the donut](https://github.com/federicobaldini/spinning-donut/donut.gif)
+![the donut](https://github.com/federicobaldini/spinning-donut/blob/main/donut.gif)
