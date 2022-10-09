@@ -19,4 +19,6 @@ Reference/explanation: https://www.a1k0n.net/2011/07/20/donut-math.html or read 
 
 Credit: https://github.com/a1k0n.
 
-![the donut](https://github.com/federicobaldini/spinning-donut/blob/main/donut.gif)
+<p align="center">
+  <img src="https://github.com/federicobaldini/spinning-donut/blob/main/donut.gif" alt="the donut" />
+</p>
