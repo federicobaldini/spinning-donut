@@ -8,4 +8,4 @@ and a donut will start spinning on your console.
 reference/explanation: https://www.a1k0n.net/2011/07/20/donut-math.html or read the .pdf file insize the documentation folder of this project (it's the same page).
 credit: https://github.com/a1k0n
 
-![the donut(https://github.com/federicobaldini/spinning-donut/animations/blob/master/donut.gif)
+![the donut](https://github.com/federicobaldini/spinning-donut/blob/master/donut.gif)
