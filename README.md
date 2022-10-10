@@ -5,7 +5,7 @@ cargo run
 ```
 and a donut will start spinning!
 
-If you don't have Cargo installed, run this command on your terminal if you start fro  the project root:
+If you don't have Cargo installed, run this command on your terminal if you start from the project root:
 ```
 ./src/main
 ```
